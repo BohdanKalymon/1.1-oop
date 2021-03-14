@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  645656.cpp
+C:\Users\ricky\source\repos\oop 1.1\645656\645656.cpp(15,1): warning C4091: '': ignored on left of 'Goods' when no variable is declared
+     Creating library C:\Users\ricky\source\repos\oop 1.1\Debug\645656.lib and object C:\Users\ricky\source\repos\oop 1.1\Debug\645656.exp
+  645656.vcxproj -> C:\Users\ricky\source\repos\oop 1.1\Debug\645656.dll
